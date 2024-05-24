@@ -10,7 +10,7 @@ if question:
     response = chain.run(question)
     st.header("Answer")
     st.write(response)
-#AIzaSyB3f0Do4UMHNe3sTicUb09dVvFhnXciGDM
+
 
 
 
